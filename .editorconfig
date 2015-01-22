@@ -27,3 +27,4 @@ indent_size = 2
 
 [**.go]
 indent_size = 2
+indent_style = tab
