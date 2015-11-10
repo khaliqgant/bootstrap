@@ -25,4 +25,4 @@ valgrind: $(MAIN)
 
 .PHONY: run
 run:
-	./$(MAIN) $(INUTS)
+	./$(MAIN) $(INPUTS)
