@@ -33,3 +33,7 @@ another() {
 # this calls the function passed as the first paramter to the script
 # the $2 makes the next arg available passed to the method
 $1 $2
+
+# sources:
+# Pass in args and call method: http://superuser.com/questions/106272/how-to-call-bash-functions
+# Self documenting: http://www.thelinuxdaily.com/2012/09/self-documenting-scripts/
