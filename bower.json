@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "main": "",
+  "version": "",
+  "authors": [
+    "khaliqgant <khaliqgant@gmail.com"
+  ],
+  "description": "",
+  "moduleType": [
+  ],
+  "keywords": [
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
