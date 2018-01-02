@@ -21,6 +21,9 @@ indent_size = 4
 [**.coffee]
 indent_size = 2
 
+[**.ts]
+indent_size = 2
+
 [**.scala]
 # http://docs.scala-lang.org/style/indentation.html
 indent_size = 2
